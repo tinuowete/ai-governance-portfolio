@@ -1,5 +1,5 @@
-\f0\fs24 \cf0 # LLM System Primer \'97 Week 1 AI Governance Portfolio\
-\
+**Week 1 AI Governance Portfolio\
+**\
 ## What this is\
 Three reference documents I built as part of my AI Governance \
 learning programme:\
